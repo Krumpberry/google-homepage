@@ -1,0 +1,10 @@
+.redbox {
+    background-color: orange;
+    display: inline-block;
+    align-self: center;
+}
+
+p:hover {
+    color: black;
+    text-decoration: underline;
+} 
